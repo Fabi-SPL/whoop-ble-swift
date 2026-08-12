@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+Packages/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+
+# Never commit captures. They contain real biometric data.
+*.bin
+*.pcap
+captures/
