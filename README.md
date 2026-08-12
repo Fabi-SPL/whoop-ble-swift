@@ -1,5 +1,10 @@
 # WhoopBLE
 
+[![CI](https://github.com/Fabi-SPL/whoop-ble-swift/actions/workflows/ci.yml/badge.svg)](https://github.com/Fabi-SPL/whoop-ble-swift/actions/workflows/ci.yml)
+[![Swift 5.9](https://img.shields.io/badge/Swift-5.9%2B-orange.svg)](https://swift.org)
+[![Platforms](https://img.shields.io/badge/platforms-iOS%2015%20%7C%20macOS%2012-lightgrey.svg)](https://swift.org)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A Swift package for talking to a WHOOP 4.0 strap over Bluetooth Low Energy.
 
 The strap speaks a private GATT protocol. This package implements the framing, the checksums, the command set and the sensor decoders, so you can read your own heart rate, RR intervals, IMU, skin temperature, battery and raw optical data without the vendor app.
