@@ -3,7 +3,7 @@
 [![CI](https://github.com/Fabi-SPL/whoop-ble-swift/actions/workflows/ci.yml/badge.svg)](https://github.com/Fabi-SPL/whoop-ble-swift/actions/workflows/ci.yml)
 [![Swift 5.9](https://img.shields.io/badge/Swift-5.9%2B-orange.svg)](https://swift.org)
 [![Platforms](https://img.shields.io/badge/platforms-iOS%2015%20%7C%20macOS%2012-lightgrey.svg)](https://swift.org)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE)
 
 A Swift package for talking to a WHOOP 4.0 strap over Bluetooth Low Energy.
 
@@ -84,4 +84,4 @@ Every fixture in the test suite is synthetic, built byte by byte from the docume
 
 ## Legal
 
-Not affiliated with or endorsed by WHOOP. This is interoperability work on hardware I own, for reading my own data. MIT licensed.
+Not affiliated with or endorsed by WHOOP. This is interoperability work on hardware I own, for reading my own data. Apache 2.0 licensed.
